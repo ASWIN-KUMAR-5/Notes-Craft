@@ -12,7 +12,7 @@ from PyQt5.QtGui import QPalette, QColor
 from PyQt5.QtCore import Qt
 
 # Set your Google Gemini AI API key
-GEMINI_API_KEY = "AIzaSyBNYNeRkzHL6C6D0LL9cJ6n5p5ODqmL-WM"
+GEMINI_API_KEY = "your-api-key-here"
 
 genai.configure(api_key=GEMINI_API_KEY)
 
